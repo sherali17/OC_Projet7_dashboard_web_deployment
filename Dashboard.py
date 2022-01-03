@@ -9,8 +9,8 @@ from PIL import Image
 
 from flask import Flask
 
-URL_API = "http://localhost:5000/"
-# URL_API = "https://scoring-api-v2-2021.herokuapp.com"
+#URL_API = "http://localhost:5000/"
+URL_API = "https://scoring-api-v2-2021.herokuapp.com"
 
 
 def main():
