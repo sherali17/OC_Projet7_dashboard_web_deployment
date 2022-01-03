@@ -1,1 +1,1 @@
-web: streamlit run --server.port $PORT Dashboard.py
+web: streamlit run --server.port $443 Dashboard.py
